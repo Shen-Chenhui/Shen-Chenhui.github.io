@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "zh-Chinese"
-title                    : "Fuzhao (Frio) Xue"
+title                    : "Chenhui Shen"
 title_separator          : "-"
-name                     : &name "Fuzhao (Frio) Xue"
+name                     : &name "Chenhui Shen"
 description              : &description "PhD Candidate at National University of Singapore"
-url                      : https://XueFuzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ShenChenhui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XueFuzhao.github.io"
+repository               : "ShenChenhui.github.io"
 teaser                   : #"/images/profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fuzhao Xue"
-  avatar           : "2.jpg"
+  name             : "Chenhui Shen"
+  avatar           : "2.png"
   bio              : "PhD Candidate at National University of Singapore."
-  location         : "Singapore"
+  location         : #"Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=JMHsqIkAAAAJ&hl=en"
-  email            : "xuefuzhao@outlook.com"
-  researchgate     : "https://www.researchgate.net/profile/Fuzhao_Xue"
+  googlescholar    : "https://scholar.google.com/citations?user=oH07uYYAAAAJ&hl=en"
+  email            : "shen_chenhui@u.nus.edu"
+  researchgate     : #"https://www.researchgate.net/profile/Fuzhao_Xue"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         : #"https://www.facebook.com/wangchunshu.zhou.5"
   foursquare       :
-  github           : "XueFuzhao"
+  github           : "Shen-Chenhui"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/fuzhao-xue-6410561a6/"
+  linkedin         : "chenhui-shen-yy~douhuajun"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "XueFz"
+  twitter          : #"XueFz"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCz7_4_VZe8ycVkk1MScP7WQ"
   wikipedia        :
 
 
