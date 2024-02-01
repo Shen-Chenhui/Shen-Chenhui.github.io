@@ -11,9 +11,9 @@ title                    : "Chenhui Shen"
 title_separator          : "-"
 name                     : &name "Chenhui Shen"
 description              : &description "PhD Candidate at National University of Singapore"
-url                      : https://ShenChenhui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Shen-Chenhui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ShenChenhui.github.io"
+repository               : "Shen-Chenhui.github.io"
 teaser                   : #"/images/profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
