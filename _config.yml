@@ -83,33 +83,33 @@ author:
   name             : "Chenhui Shen"
   avatar           : "2.png"
   bio              : "PhD Candidate at National University of Singapore."
-  location         : #"Singapore"
+  location         : "Singapore"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=oH07uYYAAAAJ&hl=en"
   email            : "shen_chenhui@u.nus.edu"
-  researchgate     : #"https://www.researchgate.net/profile/Fuzhao_Xue"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"https://www.facebook.com/wangchunshu.zhou.5"
+  facebook         :
   foursquare       :
   github           : "Shen-Chenhui"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "chenhui-shen-yy~douhuajun"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #"XueFz"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+github: [metadata] 
